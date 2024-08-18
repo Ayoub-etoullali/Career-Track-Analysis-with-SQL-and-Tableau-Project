@@ -105,6 +105,10 @@ The result of the above query is exported as `career_track_completions.csv`.
 3. **Order Bars**: Same day, 1 to 7 days, 8 to 30 days, 31 to 60 days, 61 to 90 days, 91 to 365 days, 366+ days.
 4. **Filter by Career Track**: Drag `track_name` to Filters and show filter.
 
+![image](https://github.com/user-attachments/assets/e038feab-f7a6-4390-a7d1-c12074539e1b)
+![image](https://github.com/user-attachments/assets/bd9d16d6-ddd5-4f11-9d6d-2eb6a4c2b531)
+![image](https://github.com/user-attachments/assets/3eeac4eb-0406-44aa-87ab-e6c00361de51)
+
 ## Conclusion
 
 This project provides valuable insights into student enrollments and completions in data-related career tracks. By analyzing these patterns, we can help 365 Data Science improve their offerings and better support their students.
